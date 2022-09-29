@@ -1,46 +1,11 @@
 # HW-13-AWS-Cloud
-**Unit <#> - <Title>**
+**Unit 13 - The power of Cloud and Unsupervised Learning**
 
 ## The Scenario
 
-<Project Scenario>
+Option 2: Clustering Crypto
 
-## Navigating the GitHub
+You are a Senior Manager at the Advisory Services team on a Big Four firm. One of your most important clients, a prominent investment bank, is interested in offering a new cryptocurrencies investment portfolio for its customers, however, they are lost in the immense universe of cryptocurrencies. They ask you to help them make sense of it all by generating a report of what cryptocurrencies are available on the trading market and how they can be grouped using classification.
 
-The following was provided at the beginging of the assessment and can be found in the Starter_code folder:
+In this homework assignment, you will put your new unsupervivsed learning and Amazon SageMaker skills into action by clustering cryptocurrencies and creating plots to present your results.
 
-- [Insert Given Notebook Name](this is a link)
-- [Inset Resource given](this is a link)
-- [Inset Resource given](this is a link)
-
-In the Worked_Code folder you will find:
-
-- [Insert Given Notebook Name](this is a link) - Contains images of all the plots created in the ipynb files.
-- [Inset Resource given](this is a link) - The code I have written for this notebook.
-- [Inset Resource given](this is a link) - The code I have written for this notebook.
-
-## Important Notice
-
-1. Please view this github in Day Theme - Light Default so that headers and axises on the plots show.
-
-## <Heading>
-
-### <Sub-Heading>
-
-<ins> <subject> </ins>
-
-![Image name](this is a link)
-
-**Question:** <question>
-
-**Answer:** <answer>
-
-### <Heading> Conclusions
-
-1. **<question>**
-
-- <answer>
-
-
-# Reference List
-- [<sup>1</sup> this is a link](this is a link)
